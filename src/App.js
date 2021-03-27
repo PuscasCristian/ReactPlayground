@@ -1,9 +1,10 @@
 import React from 'react';
+import SignIn from './comps/SignIn';
 
 function App() {
   return (
     <div className="App">
-     <h2 className="">hi</h2>
+     <SignIn />
     </div>
   );
 };
